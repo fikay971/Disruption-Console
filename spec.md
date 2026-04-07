@@ -1,7 +1,6 @@
 # Disruption Console
 ### AI-assisted recovery for production planners at defense manufacturers
 
-**Author:** [Your Name]
 **For:** Meridian Production Systems — Product Design Challenge
 **Status:** v1 spec, scoped for next-quarter release
 
