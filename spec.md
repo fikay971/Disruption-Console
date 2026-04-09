@@ -107,7 +107,7 @@ The planner approves the **outcome**, not the math. They never have to trust tha
 Once the planner accepts an option:
 
 - **Schedule commits** to the planning system of record. Floor displays and work-order assignments update, with shop-floor instructions pushed to the supervisor.
-- **DPAS-compliant customer notification is auto-drafted** for any rated order that will slip — reason, affected line items, new committed date, regulatory language template. Planner reviews and sends in one click. The one-working-day DPAS window becomes trivial instead of a scramble.
+- **DPAS-compliant customer notification is auto-drafted** for any rated order that will slip — reason, affected line items, new committed date, regulatory language template. Planner reviews and copies in one click(to be sent in exisitng emailing tool). The one-working-day DPAS window becomes trivial instead of a scramble.
 
 Every disruption, every option shown, every planner decision, and every constraint hint is written to an **audit log** — first-class, not a footnote. It's what makes the feature defensible to DCMA and the training-data flywheel for improving ranking over time.
 
