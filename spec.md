@@ -29,7 +29,7 @@ Each of these cascades. The single Pack & Ship station at end-of-line means any 
 - **Planner time:** 4–8 hours per disruption event re-sequencing the schedule, much of it spent re-typing the same information into Excel, the MES, and customer emails.
 - **OTD impact:** Industry baselines for unaided defense scheduling cluster around 50–70% on-time delivery; purpose-built tools can lift this to 95%+. Each lost percentage point on a rated program is real LD exposure and reputation damage with the prime.
 
-The pain isn't that scheduling is hard — APS and constraint solvers have existed for 40 years and Meridian presumably already has one. The pain is that **recovery from disruption isn't a scheduling problem — it's a human-bandwidth problem**, and the human work is mostly comparing options, explaining tradeoffs, and writing notifications — exactly the work LLMs are now good at.
+ The pain is that **recovery from disruption isn't a scheduling problem — it's a human-bandwidth problem**, and the human work is mostly comparing options, explaining tradeoffs, and writing notifications — exactly the work LLMs are now good at.
 
 This feature targets reducing schedule recovery time from 4–8 hours to under 30 minutes for most disruption events, while improving DPAS compliance and on-time delivery rates.
 
