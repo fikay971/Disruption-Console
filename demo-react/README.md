@@ -1,4 +1,4 @@
-# Meridian — Disruption Console
+#FIkay APP — Disruption Console
 
 A working React prototype of an AI-assisted recovery feature for production planners at defense manufacturers. Built for the Fikay App take-home assignment.
 
