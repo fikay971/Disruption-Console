@@ -1,6 +1,6 @@
 # Meridian — Disruption Console
 
-A working React prototype of an AI-assisted recovery feature for production planners at defense manufacturers. Built for the Meridian Production Systems take-home assignment.
+A working React prototype of an AI-assisted recovery feature for production planners at defense manufacturers. Built for the Fikay App take-home assignment.
 
 See `../spec.md` for the product spec and `../summary.md` for build notes.
 
